@@ -90,4 +90,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ivansh04/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Ivansh04/neetcode-submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
